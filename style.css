@@ -2592,7 +2592,10 @@ html {
         padding: 0 20px;
         box-sizing: border-box;
     }
-
+    .menu button {
+        width: 50%;
+        font-size: 13px;
+    }
     #sectionbtn {
         width: 50%;
         font-size: 13px;
